@@ -1,0 +1,4 @@
+﻿  IncrementDecrementOperators.cpp
+c:\users\chris\source\repos\incrementdecrementoperators\incrementdecrementoperators\incrementdecrementoperators.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\source\repos\incrementdecrementoperators\incrementdecrementoperators\incrementdecrementoperators.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  IncrementDecrementOperators.vcxproj -> C:\Users\Chris\source\repos\IncrementDecrementOperators\Debug\IncrementDecrementOperators.exe
